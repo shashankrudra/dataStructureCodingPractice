@@ -15,7 +15,7 @@ public class ReverseList {
 		y.print();
 		
 		System.out.println();
-		Node z = reverseListRec(n1, null);
+		Node z = reverseListRec(y, null);
 		z.print();
 	}
 	
